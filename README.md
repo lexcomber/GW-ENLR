@@ -6,7 +6,7 @@ Please contact Lex Comber [a.comber@leeds.ac.uk](a.comber@leeds.ac.uk) if you ha
 ## Paper title: Geographically weighted elastic net logistic regression
 Alexis Comber^1 and Paul Harris^2
 
-^1 School of Geography, University of Leeds, Leeds, UK LS2 9JT
+^1 School of Geography, University of Leeds, Leeds, UK LS2 9JT\
 ^2 Rothamsted Research, North Wyke, Okehampton, Devon, UK EX20 2SB
 
 ## Abstract
