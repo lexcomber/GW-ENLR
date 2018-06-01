@@ -1,5 +1,5 @@
 # GW-ENLR: Geographically weighted elastic net logistic regression - code and data
-The code and data are all described in the file `Comber_Harris_GW-ENLR_code_simulation.R`. To run the simulation data you will need to download the zip file from this repository and unzip the files to a directory of your choice. This should then be set as the working directory in R using the `setwd()` function. 
+The code and data in this repository are for the GW-ELNR simulation study described in the Journal of Geographical Systems paper. The code is described in the file `Comber_Harris_GW-ENLR_code_simulation.R`. To run the simulation data you will need to download the zip file from this repository and unzip the files to a directory of your choice. This should then be set as the working directory in R using the `setwd()` function. 
 
 Please contact Lex Comber [a.comber@leeds.ac.uk](a.comber@leeds.ac.uk) if you have any questions.
 
